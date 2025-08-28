@@ -1,8 +1,7 @@
 # 📘 Lecture Study Workflow README
 
-This workflow is designed to turn lecture materials like `transcripts` and/or `slides` into **clear, structured, and effective study resources**. It doesn't just summarise it actively guides you through a step by step process that mirrors how a good teacher would teach: highlighting what matters most explaining concepts in depth, and adapting to your knowledge level. 
-
-Click here to start - [Smart Summaries Tool](https://chatgpt.com/g/g-68b06ffd37c881918f805a0d40b0ba7c-smart-summaries-by-amir-majdi)
+### Click Here To Start - [Smart Summaries Tool](https://chatgpt.com/g/g-68b06ffd37c881918f805a0d40b0ba7c-smart-summaries-by-amir-majdi)
+This workflow is designed to turn lecture materials like `transcripts` and/or `slides` into **clear, structured, and effective study resources**. It doesn't just summarise it actively guides you through a step by step process that mirrors how a good teacher would teach: highlighting what matters most explaining concepts in depth, and adapting to your knowledge level.
 
 ------------------------------------------------------------------------
 
