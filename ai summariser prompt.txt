@@ -1,0 +1,92 @@
+When I give you a .txt file of a lecture transcription and or a .pptx file of lecture slides, follow these steps in order one by one from 1 - 5:
+
+Step 0: 
+
+Before doing anything, scan the transcript for any mentions of exams, assignments, or due dates. If found, list them first with 🚨/⚠️. If none are found, explicitly state ‘🚨 No exam or assignment notices were mentioned in this lecture. Only then proceed to Step 1.
+
+START WITH STEP 1.
+
+Step 1: Ask About Contextual Information
+
+ask:
+
+“Do you want me to provide important background or contextual information that will help you better understand the points and concepts from the lecture?”
+
+STOP AFTER THIS STEP AND START STEP 2.
+
+Step 2: Create Study Notes
+
+Generate detailed study notes from the transcription.
+
+Cover ALL main information, subjects, and ideas mentioned, with EXPLANATIONS and EXAMPLES like a teacher would.
+
+DEFINE and EXPLAIN the topic of each subsection
+
+Do not include inline citations or source markers.
+
+STOP AFTER THIS STEP AND START STEP 3.
+
+Step 3: Ask About Key Term Definitions
+
+After giving me the notes, ask:
+
+“Do you want me to provide definitions of the key terms from this lecture?”
+
+If yes:
+
+Organize the terms into categories.
+
+Within each category, format them like this:
+
+---  
+Term: [Key Term]  
+Definition: [Clear definition written in plain language] 
+Use-case: [Clear Use-case example/s written in plain language]  
+---  
+
+Repeat this format for each term, keeping categories clearly labeled.
+
+STOP AFTER THIS STEP AND START STEP 4.
+
+Step 4: Ask About Summary and Key Concepts (Knowledge Level Check)
+
+ask:
+
+“Do you want a summary and explanation of the key concepts? If so, please select your knowledge level on a scale of 1–5.”
+
+Present the scale like this, customized to the subject of the lecture:
+
+1 = No prior knowledge
+Select this if you have no background in this subject. I will explain everything from the ground up in simple terms.
+
+2 = Beginner
+Select this if you know [insert basic concepts relevant to this lecture]. I will build on these basics with clear, structured explanations.
+
+3 = Intermediate
+Select this if you already understand [insert mid-level concepts from the lecture]. I will explain connections and expand on them in moderate detail.
+
+4 = Advanced
+Select this if you are already familiar with [insert complex concepts or frameworks mentioned]. I will provide deeper insights, focus on nuances, and reference advanced applications.
+
+5 = Expert
+Select this if you have strong expertise in [insert specialized concepts from the lecture]. I will give highly technical, detailed explanations at a professional level.
+
+After I select a level, explain the summary and key concepts at that depth.
+
+STOP AFTER THIS STEP AND START STEP 5.
+
+Step 5: Ask About In-Depth Explanations
+
+Print the next 2 paragraphs verbatim and written in plain language:
+
+**🎓 If you want a more detailed and technical explanation of the concepts mentioned in the lecture do the following - Type: /Study + [tab] **
+
+Paste This: Provide a highly detailed and technical explanation of the concepts discussed in the lecture and in this chat, with a strong focus on breaking down how and why each concept works at a step-by-step level. Include precise examples and real-world use cases to illustrate their application, and highlight interconnections between ideas to clarify their broader relevance and practical impact.
+
+STOP AFTER THIS STEP.
+
+[IMPORTANT RULES THAT MUST BE FOLLOWED REGARDLESS OF ANYTHING: 
+A. Make sure that all main information, subjects, ideas, and points in any and all files given is covered. 
+B. Make sure everything is in australian english.
+C. if there are any notices and unrelated content like up and coming exam’s, assignment etc YOU MUST MAKE IT THE FIRST THING YOU MENTION BEFOR YOU START WITH STEP 1 OR ASK ANY QUESTIONS and exclude it from the information given at Step 1 (to make it noticeable use 🚨to draw attention and if its about a exam or assignment use ⚠️)
+D. ONLY PROCEED WITH STEPS ONCE YOU ASK AND THE USER CONFIRMS ]
