@@ -16,21 +16,21 @@ STOP AFTER THIS STEP AND START STEP 2.
 
 Step 2: Create Study Notes
 
-Generate detailed study notes from the transcription.
-
-Cover ALL main information, subjects, and ideas mentioned, with EXPLANATIONS and EXAMPLES like a teacher would.
+Generate detailed study notes from the transcription and or lecture slides. These Notes key purpose is to actually teach me the content no to just write it down. explain it from the ground up while going into detail on how everything works and why it works. (REMEMBER YOU ARE TEACHING ME THESE CONCEPTS NOT JUST TELLING ME)
 
 DEFINE and EXPLAIN the topic of each subsection
+
+Cover ALL information, subjects, and ideas mentioned, with EXPLANATIONS and EXAMPLES like how a teacher would explain it and break down each concept so it is clear how it works.
 
 Do not include inline citations or source markers.
 
 STOP AFTER THIS STEP AND START STEP 3.
 
-Step 3: Ask About Key Term Definitions
+Step 3: Ask About Key Term And Concept Definitions
 
-After giving me the notes, ask:
+After giving me the notes and or slides, ask:
 
-“Do you want me to provide definitions of the key terms from this lecture?”
+“Do you want me to provide definitions of the key terms and concepts from this lecture?”
 
 If yes:
 
@@ -39,12 +39,14 @@ Organize the terms into categories.
 Within each category, format them like this:
 
 ---  
-Term: [Key Term]  
+Term or Concept: [Key Term or Key Concept]  
 Definition: [Clear definition written in plain language] 
 Use-case: [Clear Use-case example/s written in plain language]  
 ---  
 
-Repeat this format for each term, keeping categories clearly labeled.
+(Term or Concept:), (Definition:) and (Use-case:) should be in bold and the answer should be in normal text
+
+Repeat this format for each term or Concept, keeping categories clearly labeled.
 
 STOP AFTER THIS STEP AND START STEP 4.
 
@@ -71,7 +73,7 @@ Select this if you are already familiar with [insert complex concepts or framewo
 5 = Expert
 Select this if you have strong expertise in [insert specialized concepts from the lecture]. I will give highly technical, detailed explanations at a professional level.
 
-After I select a level, explain the summary and key concepts at that depth.
+After I select a level, explain the summary and key concepts at that depth. break each and every concept down and explain from the ground up how it works
 
 STOP AFTER THIS STEP AND START STEP 5.
 
@@ -90,3 +92,7 @@ A. Make sure that all main information, subjects, ideas, and points in any and a
 B. Make sure everything is in australian english.
 C. if there are any notices and unrelated content like up and coming exam’s, assignment etc YOU MUST MAKE IT THE FIRST THING YOU MENTION BEFOR YOU START WITH STEP 1 OR ASK ANY QUESTIONS and exclude it from the information given at Step 1 (to make it noticeable use 🚨to draw attention and if its about a exam or assignment use ⚠️)
 D. ONLY PROCEED WITH STEPS ONCE YOU ASK AND THE USER CONFIRMS ]
+E. YOU MAIN OBJECTIVE IS TEACHING ME THESE CONCEPTS NOT JUST TELLING ME ALWAYS EXPLAIN HOW THINGS WORK INSTEAD OF TELLING ME FOR EXAMPLE IF YOU ARE TALING ABOUT A FORMULA DO NOT JUST GIVE ME THE FORMULA TELL ME WHAT EACH PART MEANS BREAK IT DOWN AS IF ITS THE FIRST TIME I AM SEEING THIS. AND NEVER JUST GIVE ONE SENTENCE EXPLANATIONS ABOUT SOMETHING ALWAYS GO INDEPTH FROM THE GROUND UP
+F. ALWAYS ALWAYS ALWAYS STAY WITHIN THE SCOPE OF WHAT IS IN THE FILES GIVEN TO YOU NEVER METION TOPICS OR CONCEPTS THAT ARE NOT WITHIN SCOPE UNLESS YOU HAVE EXPLICIT PERMISSION FOR THE USER
+G. MAKE SURE YOU METION EVERY TALKING POINT IN THE LECTURE REGARDLESS HOW BIG OR SMALL UNLESS IT HAS NO CORRELATION TO THE TOPIC
+H. MAKE SURE ALL FORMULAS ARE INCLUDED IN THE STUDY NOTES AND ARE EXPLAINED IN DETAIL BREAK DOWN/DEFINE WHAT EACH PART MEANS
